@@ -1,0 +1,146 @@
+play :A3
+sleep 0.5
+play :B3
+sleep 0.5
+play :C4
+sleep 0.5
+play :D4
+sleep 0.5
+play :C4
+sleep 0.5
+play :B3
+sleep 0.5
+play :C4
+sleep 0.5
+play :A3
+sleep 0.5
+play :E3, release: 1
+sleep 0.5
+play :A3
+sleep 0.5
+play :C4, release: 1.75
+sleep 0.5
+play :B3
+sleep 0.5
+play :A3
+sleep 0.5
+play :G3
+sleep 0.5
+play :F3, release: 1.5
+sleep 0.5
+play :D4
+sleep 0.5
+play :C4
+sleep 0.5
+play :B3
+sleep 0.5
+play :C4
+sleep 0.5
+play :A3
+sleep 0.5
+play :F3, release: 1
+sleep 0.5
+play :A3
+sleep 0.5
+play :C4
+sleep 0.5
+play :E4
+sleep 0.5
+play :D4
+sleep 0.5
+play :C4
+sleep 0.5
+play :B3
+play :G3, amp: 0.5, release: 0.75
+sleep 0.5
+play :C4
+sleep 0.5
+play :B3
+sleep 0.5
+play :A3
+sleep 0.5
+play :B3
+sleep 0.5
+play :G3
+sleep 0.5
+play :D3, release: 1
+sleep 0.5
+play :G3
+sleep 0.5
+play :B3
+sleep 0.5
+play :G3, release: 1.5
+sleep 0.5
+play :C4
+sleep 0.5
+play :D4
+sleep 0.5
+play :E4
+sleep 0.5
+play :F4
+sleep 0.5
+play :E4
+sleep 0.5
+play :D4
+sleep 0.5
+play :E4
+sleep 0.5
+play :C4
+sleep 0.5
+play :G3, release: 1
+sleep 0.5
+play :C4
+sleep 0.5
+play :E4
+sleep 0.5
+play :C4, release: 1
+sleep 0.5
+play :Fs4
+sleep 0.5
+play :G4
+sleep 0.5
+play :A4, release: 2
+sleep 0.5
+play :C4
+sleep 0.5
+play :B3
+sleep 0.5
+play :A3
+sleep 0.5
+play :B3
+sleep 0.5
+play :C4
+sleep 0.5
+play :D4
+sleep 0.5
+play :G3
+sleep 0.5
+play :B3
+sleep 0.5
+play :A3
+sleep 0.5
+play :G3
+sleep 0.5
+play :F3
+sleep 0.5
+play :G3, release:2
+sleep 0.5
+play :C3
+sleep 0.5
+play :B2
+sleep 0.5
+play :A2
+sleep 0.5
+play :B2
+sleep 0.5
+play :D3
+sleep 0.5
+play :G3
+sleep 0.5
+play :F3
+sleep 0.75
+play :F3
+sleep 1
+play :G3
+
+
